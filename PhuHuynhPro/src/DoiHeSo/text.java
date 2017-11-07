@@ -12,8 +12,9 @@ public class text {
 		System.out.print("nhap n, b: ");
 		n = sc.nextInt();
 		b = sc.nextInt();
+
 		String str = chuyen(n, b);
-		System.out.print("gia tri " + n + " chuyen tu he 10 sang he " + b + ": ");
+		System.out.print("gia tri " + n + " chuyen tu he 10 sang he " + b + "la:  ");
 		xuat(str);
 	}
 
