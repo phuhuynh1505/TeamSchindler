@@ -43,5 +43,7 @@ public class PTBac2 {
 			}
 
 		}
+		sc.close();
 	}
+
 }
